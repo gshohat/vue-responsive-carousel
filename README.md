@@ -4,6 +4,8 @@
 
 **Lightweight** image carousel component for  [Vue](https://vuejs.org/) **< 5k** 😎 <br>
 
+![responsive-carousel](https://github.com/gshohat/vue-responsive-carousel/assets/91323932/cfd92d05-6442-4ba5-951d-fbcaff9a76b0)
+
 ## Usage
 
 `npm i vue-responsive-carousel`
