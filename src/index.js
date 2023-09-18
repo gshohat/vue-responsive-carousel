@@ -1,3 +1,3 @@
-import ResponsiveCarouse from './components/ResponsiveCarousel.vue';
+import ResponsiveCarousel from './components/ResponsiveCarousel.vue';
 
-export default ResponsiveCarouse;
+export default ResponsiveCarousel;

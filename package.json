@@ -1,19 +1,19 @@
 {
   "name": "vue-responsive-carousel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Gilad Shohat",
   "description": "Vue Responsive Carousel",
   "homepage": "https://github.com/gshohat/vue-responsive-carousel#readme",
   "license": "MIT",
-  "main": "./dist/vue-responsive-carousel.umd.js",
-  "module": "./dist/vue-responsive-carousel.es.js",
+  "main": "./dist/responsive-carousel.umd.js",
+  "module": "./dist/responsive-carousel.es.js",
   "files": [
     "dist"
   ],
   "exports": {
     ".": {
-      "import": "./dist/vue-responsive-carousel.es.js",
-      "require": "./dist/vue-responsive-carousel.umd.js"
+      "import": "./dist/responsive-carousel.es.js",
+      "require": "./dist/responsive-carousel.umd.js"
     },
     "./dist/style.css": "./dist/style.css"
   },
